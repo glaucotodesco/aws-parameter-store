@@ -28,3 +28,7 @@ public class CustomerController {
     }
 
 }
+
+
+//https://enlear.academy/how-to-use-aws-parameter-store-39a123f1c57a
+//https://medium.com/@diegolirio/centralizando-as-configura%C3%A7%C3%B5es-na-aws-com-parameter-store-e-spring-boot-part-1-dbfbdb57861c
